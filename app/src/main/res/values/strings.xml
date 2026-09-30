@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyNavigationCompose</string>
+
+    <string name="title_home">Hello, This is Home Screen</string>
+    <string name="title_category">This is Category Screen</string>
+    <string name="title_profile">This is Profile Screen</string>
+    <string name="title_category_default">Category Name</string>
+
+    <string name="btn_to_category">Go to Category Screen</string>
+    <string name="btn_to_profile">Go to Profile Screen</string>
+    <string name="btn_to_lifestyle">Go to Lifestyle Category</string>
+    <string name="btn_to_home">Go to Home Screen</string>
+
+    <string name="label_stock">Stock: %1$d</string>
+</resources>
